@@ -1,0 +1,18 @@
+C:\Users\Shawn\AppData\Local\Temporary Projects\WallPaperGuy\bin\Debug\WallPaperGuy.exe.config
+C:\Users\Shawn\AppData\Local\Temporary Projects\WallPaperGuy\bin\Debug\WallPaperGuy.exe
+C:\Users\Shawn\AppData\Local\Temporary Projects\WallPaperGuy\bin\Debug\WallPaperGuy.pdb
+C:\Users\Shawn\AppData\Local\Temporary Projects\WallPaperGuy\obj\Debug\WallPaperGuy.csprojResolveAssemblyReference.cache
+C:\Users\Shawn\AppData\Local\Temporary Projects\WallPaperGuy\obj\Debug\WallPaperGuy.Form1.resources
+C:\Users\Shawn\AppData\Local\Temporary Projects\WallPaperGuy\obj\Debug\WallPaperGuy.Properties.Resources.resources
+C:\Users\Shawn\AppData\Local\Temporary Projects\WallPaperGuy\obj\Debug\WallPaperGuy.csproj.GenerateResource.Cache
+C:\Users\Shawn\AppData\Local\Temporary Projects\WallPaperGuy\obj\Debug\WallPaperGuy.exe
+C:\Users\Shawn\AppData\Local\Temporary Projects\WallPaperGuy\obj\Debug\WallPaperGuy.pdb
+C:\Users\Shawn\Documents\Visual Studio 2013\Projects\WallPaperGuy\WallPaperGuy\bin\Debug\WallPaperGuy.exe.config
+C:\Users\Shawn\Documents\Visual Studio 2013\Projects\WallPaperGuy\WallPaperGuy\obj\Debug\WallPaperGuy.exe
+C:\Users\Shawn\Documents\Visual Studio 2013\Projects\WallPaperGuy\WallPaperGuy\obj\Debug\WallPaperGuy.pdb
+C:\Users\Shawn\Documents\Visual Studio 2013\Projects\WallPaperGuy\WallPaperGuy\bin\Debug\WallPaperGuy.exe
+C:\Users\Shawn\Documents\Visual Studio 2013\Projects\WallPaperGuy\WallPaperGuy\bin\Debug\WallPaperGuy.pdb
+C:\Users\Shawn\Documents\Visual Studio 2013\Projects\WallPaperGuy\WallPaperGuy\obj\Debug\WallPaperGuy.csprojResolveAssemblyReference.cache
+C:\Users\Shawn\Documents\Visual Studio 2013\Projects\WallPaperGuy\WallPaperGuy\obj\Debug\WallPaperGuy.FrmMain.resources
+C:\Users\Shawn\Documents\Visual Studio 2013\Projects\WallPaperGuy\WallPaperGuy\obj\Debug\WallPaperGuy.Properties.Resources.resources
+C:\Users\Shawn\Documents\Visual Studio 2013\Projects\WallPaperGuy\WallPaperGuy\obj\Debug\WallPaperGuy.csproj.GenerateResource.Cache
